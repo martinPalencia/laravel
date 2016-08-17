@@ -1,2 +1,2 @@
 # laravel
-procetos de laravel
+Proyecto de Laravel
